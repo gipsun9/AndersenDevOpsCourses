@@ -1,2 +1,2 @@
 # AndersenDevOpsCourses
-my repositorii for Andresen DevOps Courses
+my repository for Andresen DevOps Courses
